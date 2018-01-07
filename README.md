@@ -7,9 +7,9 @@
 * 20180102  [修复] 当背包大于128时, 商城不能购买的问题.
 * 20180102  [添加] 脚本指令 getidxrandomoption 用来获取玩家背包中物品的OPT
 * 20180102  [添加] 脚本指令 setidxrandomoption 用来设置玩家背包中物品的OPT
-* 20180102  [添加] 属性拓展 bWeaponAddDamage 增加武器攻击伤害
-* 20180102  [添加] 属性拓展 bMagicAddDamage 增加魔法攻击伤害
-* 20180102  [添加] 属性拓展 bMiscAddDamage 增加特殊攻击伤害
+* 20180102  [添加] 属性拓展 bWeaponAddDamage 直接增加每次武器攻击的伤害
+* 20180102  [添加] 属性拓展 bMagicAddDamage 直接增加每次魔法攻击的伤害
+* 20180102  [添加] 属性拓展 bMiscAddDamage 直接增加每次特殊攻击的伤害
 * 20180102  [添加] 脚本指令 is_bot 用来判断指定玩家是否为机器人
 * 20180102  [添加] 脚本指令 bot_run 启动机器人, 配置方法请查看 doc/BetterRa_script_commands.txt
 * 20180102  [添加] 脚本指令 bot_reset 用来重新配置机器人参数, 配置方法请查看 doc/BetterRa_script_commands.txt
